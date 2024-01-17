@@ -48,7 +48,7 @@ const Footer = () => {
             href='/'
             className='text-gray-500'
           >
-            Terms of Use
+            Terms of Use 1
           </Link>
         </div>
       </div>
